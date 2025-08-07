@@ -12,7 +12,7 @@
 - 사용자가 웹 페이지의 텍스트를 효율적으로 읽을 수 있도록 돕는 크롬 확장 프로그램입니다.<br />
 - 불필요한 문장 제거(정리 모드)와 집중 읽기(몰입 읽기 모드) 기능을 제공합니다.
 
-#### RadioPremium [[🔗 프론트엔드 레포지토리]](https://github.com/Radio-Premium/RadioPremium-FE) [[🔗 서버 레포지토리]](https://github.com/Radio-Premium/RadioPremium-BE)  [[🔗 머신러닝 레포지토리]](https://github.com/Radio-Premium/RadioPremium-Whisper)
+#### RadioPremium [[🔗 프론트엔드 레포지토리]](https://github.com/Radio-Premium/radio-premium-fe) [[🔗 백엔드 서버 레포지토리]](https://github.com/Radio-Premium/radio-premium-be)  [[🔗 AI 서버 레포지토리]](https://github.com/Radio-Premium/radio-premium-ai)
 > ##### 팀 프로젝트 (총 5주, 기획 1주 / 기능 개발 4주)
 
 - 사용자가 라디오를 청취하면서 광고가 나올 때 자동으로 다른 채널로 전환해주는 서비스입니다.
